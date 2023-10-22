@@ -1,4 +1,4 @@
-package composite;
+package composite.EmployeeExample;
 
 public class Main {
     public static void main(String[] args) {

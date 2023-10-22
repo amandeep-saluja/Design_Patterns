@@ -1,4 +1,4 @@
-package composite;
+package composite.EmployeeExample;
 
 import java.util.ArrayList;
 import java.util.List;
